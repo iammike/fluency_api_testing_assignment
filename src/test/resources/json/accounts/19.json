@@ -1,0 +1,20 @@
+{
+  "accountPlanId": 19,
+  "customerId": 2,
+  "ownerUuid": "test6",
+  "name": "Pizza Shack",
+  "status": "DISABLED",
+  "primaryDomain": "www.scottgale.com",
+  "secureDomain": false,
+  "address1": "L16 Stonehedge Dr",
+  "city": "South Burlington",
+  "state": "VT",
+  "postalCode": "05403",
+  "country": "US",
+  "currencyCode": "USD",
+  "timeZone": "America/Chicago",
+  "primaryVertical": "Fast Food",
+  "clientSecret": "a89d17b60afd6326f56ce0b4de13358d3a2c89cc5c660344520fa692d67038d0",
+  "accountHold": false,
+  "synchronizationMethod": "MANUAL"
+}
