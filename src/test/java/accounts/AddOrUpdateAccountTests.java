@@ -4,10 +4,9 @@ import common.BaseTest;
 
 public class AddOrUpdateAccountTests extends BaseTest {
 
-    // test enumerations
-    // test good cases
-    // test booleans
-    // test bad date formats
-    //    void testStatusEnum() {}
+//    void testValidUpdate() {}
+//    void testInvalidDataTypes() {} -- this would be extrapolated to many tests
+//    void testBadDataFormat() {}
+//    void testStatusEnum() {}
 //    void testActiveChannelEnum() {}
 }
